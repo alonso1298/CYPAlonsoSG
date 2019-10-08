@@ -1,0 +1,1 @@
+dia = int(input("Introduce un dia (1-5)")) 
